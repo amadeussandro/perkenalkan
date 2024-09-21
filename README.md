@@ -1,0 +1,2 @@
+# perkenalkan
+halo, saya Amadeus
