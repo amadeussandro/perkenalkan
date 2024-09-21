@@ -1,0 +1,13 @@
+body {
+    min-height: 2000px;
+}
+
+h2 {
+    font-style: normal; /* Pastikan gaya font adalah normal */
+  }
+  
+  .jumbotron {
+    padding: 4rem 2rem; /* Padding yang lebih besar */
+    min-height: 300px; /* Menentukan tinggi minimum */
+    background-color: rgba(121, 121, 121, 0.141);
+}
